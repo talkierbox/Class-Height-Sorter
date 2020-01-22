@@ -1,0 +1,10 @@
+{
+    "male": {
+        "FirstName": 60,
+		"SecondPersonsFirstName": 80
+    },
+    "female": {
+        "FirstName": 60,
+		"SecondPersonsFirstName": 80
+        }
+}
